@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/UserProfile/Task 5.6.1/App.config
+/UserProfile/.vs/UserProfile/v17
+/.vs
+*.sln
+/UserProfile/Task 5.6.1/obj/Debug
+/UserProfile/Task 5.6.1/obj/Release
+
+/UserProfile/Task 5.6.1/Properties/AssemblyInfo.cs
+/UserProfile/Task 5.6.1/Task 5.6.1.csproj
